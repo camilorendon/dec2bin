@@ -6,7 +6,7 @@
 
 body{
     height: 100vh;
-    background: yellow;
+    background: grey;
 }
 .container{
     width: 100%;
@@ -45,7 +45,7 @@ h2{
     border-color: black;
    
 }
-#ui-binary-button{
+#btn{
     width: 42.7%;
     border-radius: 5px;
     text-align: center;
@@ -54,7 +54,7 @@ h2{
     color: white;
     background-color: black;
 }
-#ui-binary-button:hover{
+#btn:hover{
     font-weight: bold;
     color: black;
     background-color: white;

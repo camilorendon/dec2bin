@@ -1,9 +1,9 @@
 window.onload = () => {
     const uiInput = document.getElementById("ui-number-input");
-    const uiButton = document.getElementById("ui-bainary-button");
+    const uiButton = document.getElementById("btn");
     const uiTitle = document.getElementById("ui-title");
 
-    uiButton.onclick = () => main();
+    uiButton.onclick =() => main();
 
 
     function main(){
